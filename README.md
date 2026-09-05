@@ -114,7 +114,7 @@ I'm open to learning new technologies, working on challenging projects, and gain
 
 ## 📫 Connect With Me
 
-* 💼 **LinkedIn:** [Yathusan J](https://www.linkedin.com/in/yathusan-j-a46461384/)
+* 💼 **LinkedIn:** [Yathusan J](https://www.linkedin.com/in/yathusan-j/)
 * 📧 **Email:** [yathusan795@gmail.com](mailto:yathusan795@gmail.com)
 * 💻 **GitHub:** [Yathusan-tech](https://github.com/Yathusan-tech)
 
