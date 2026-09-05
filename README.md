@@ -2,9 +2,9 @@
 
 ### B.Tech Computer Science & Engineering Student
 
-I'm a Computer Science student interested in technology, software development, and solving real-world problems through practical projects.
+I'm a Computer Science student focused on **software development, web technologies, backend systems, databases, and application security**.
 
-I'm currently exploring different areas of Computer Science while building projects, strengthening my programming fundamentals, and learning new technologies.
+I enjoy learning by building practical projects and using what I learn to create applications that are functional, reliable, secure, and user-friendly.
 
 ---
 
@@ -12,41 +12,43 @@ I'm currently exploring different areas of Computer Science while building proje
 
 ### 🎬 CINEVO LUXE — Movie Ticket Reservation Platform
 
-A full-stack movie ticket booking platform designed and developed using **Python, Flask, SQLite, SQLAlchemy, HTML, CSS, and JavaScript**.
+**CINEVO LUXE** is a full-stack movie ticket reservation platform built with **Python, Flask, SQLite, SQLAlchemy, HTML, CSS, and JavaScript**.
 
-The project focuses on creating a realistic booking experience while maintaining secure data handling, reliable reservation processing, and a professional user interface.
+The project was designed to provide a realistic cinema booking experience with reliable reservation processing, secure data handling, interactive seat selection, and a professional user interface.
 
-**Key Engineering Work**
+### Key Engineering Work
 
 * Implemented server-side seat availability and booking validation
 * Developed transaction-aware reservation processing
-* Implemented secure staff authentication and protected administrative routes
-* Added CSRF protection and security response headers
 * Implemented server-authoritative ticket pricing
+* Added protection against duplicate seat bookings
+* Implemented secure staff authentication with password hashing
+* Protected staff and administrative routes with authentication and authorization
+* Added CSRF protection and security response headers
 * Developed secure booking lookup and confirmation workflows
-* Integrated email-based digital booking confirmations
+* Implemented digital booking confirmation functionality
 * Tested booking, authentication, validation, and security functionality
 * Deployed the application to a live production environment
 
-🔗 **Live Demo:** https://cinevo-luxe.onrender.com
-🔗 **Repository:** https://github.com/Yathusan-tech/cinevo-luxe
+🔗 **[Live Demo](https://cinevo-luxe.onrender.com)** · **[Repository](https://github.com/Yathusan-tech/cinevo-luxe)**
 
 ---
 
-## 🛠️ Technologies I've Worked With
+## 🛠️ Technologies
 
 ### Programming & Web
 
 * Python
 * JavaScript
-* HTML
-* CSS
+* HTML5
+* CSS3
 * SQL
 
 ### Frameworks & Libraries
 
 * Flask
 * Flask-SQLAlchemy
+* SQLAlchemy
 * Werkzeug
 
 ### Database
@@ -64,17 +66,17 @@ The project focuses on creating a realistic booking experience while maintaining
 
 ---
 
-## 🔐 Areas of Technical Interest
+## 🔐 Technical Interests
 
 * Software Development
-* Web Application Development
+* Full-Stack Web Development
 * Backend Systems
 * Database Management
 * Application Security
 * Data Structures & Algorithms
 * Cloud & Deployment Technologies
 
-I'm currently exploring different areas of Computer Science and haven't limited myself to a specific specialization yet.
+I'm currently exploring different areas of Computer Science while building a strong foundation across software development and related technologies.
 
 ---
 
@@ -92,17 +94,32 @@ I'm currently exploring different areas of Computer Science and haven't limited 
 
 ## 🎯 My Approach
 
-I believe in learning by building.
+> **Learn → Build → Test → Improve**
 
-My goal is to turn what I learn in Computer Science into practical projects, understand how systems work behind the scenes, and continuously improve the quality, security, and usability of my applications.
+I believe the best way to learn Computer Science is by building practical systems.
+
+Through my projects, I aim to understand not only how an application works from the user interface, but also how its backend logic, database, validation, security, and deployment work together.
+
+I'm continuously improving my programming fundamentals and engineering practices while exploring different areas of Computer Science.
+
+---
+
+## 📌 What I'm Working Toward
+
+I'm building my skills toward a career in **software development and technology**, with a particular interest in developing reliable web applications and backend systems.
+
+I'm open to learning new technologies, working on challenging projects, and gaining practical software engineering experience.
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/yathusan-j-a46461384/
-* 📧 Email: [yathusan795@gmail.com](mailto:yathusan795@gmail.com)
+* 💼 **LinkedIn:** [Yathusan J](https://www.linkedin.com/in/yathusan-j-a46461384/)
+* 📧 **Email:** [yathusan795@gmail.com](mailto:yathusan795@gmail.com)
+* 💻 **GitHub:** [Yathusan-tech](https://github.com/Yathusan-tech)
 
 ---
 
 ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and projects.
