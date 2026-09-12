@@ -1,125 +1,138 @@
 # Hi, I'm Yathusan 👋
 
-### B.Tech Computer Science & Engineering Student
+### 💻 B.Tech Computer Science & Engineering Student | Software Developer
 
-I'm a Computer Science student focused on **software development, web technologies, backend systems, databases, and application security**.
+[![GitHub](https://img.shields.io/badge/GitHub-Yathusan--tech-181717?style=flat-square&logo=github)](https://github.com/Yathusan-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yathusan_J-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-yathusan795%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:yathusan795@gmail.com)
+
+I'm a **Computer Science & Engineering student** focused on software development, web technologies, backend systems, databases, and application security.
 
 I enjoy learning by building practical projects and using what I learn to create applications that are functional, reliable, secure, and user-friendly.
 
+I believe good software is a combination of **strong fundamentals, thoughtful design, clean implementation, and continuous improvement.**
+
 ---
 
-## 🚀 Featured Project
+## 🧑‍💻 About Me
+
+- 🎓 Currently pursuing **B.Tech in Computer Science & Engineering**
+- 💻 Focused on **Software Development & Web Technologies**
+- ⚙️ Building backend systems with **Python & Flask**
+- 🛡️ Exploring **Application Security & Database Systems**
+- 🛠️ Implementing **Data Validation, Authentication, & Deployment**
+- 🧪 Learning through **projects, experimentation, and continuous improvement**
+
+*My goal is to grow into a developer who can combine strong Computer Science fundamentals with practical software engineering skills.*
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages & Web
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+
+### ⚙️ Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D70A53?style=flat-square&logo=sqlalchemy&logoColor=white)
+
+### 🗄️ Databases & Backend
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### 🔧 Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
 
 ### 🎬 CINEVO LUXE — Movie Ticket Reservation Platform
 
-**CINEVO LUXE** is a full-stack movie ticket reservation platform built with **Python, Flask, SQLite, SQLAlchemy, HTML, CSS, and JavaScript**.
+A full-stack movie ticket reservation platform built with Python, Flask, SQLite, SQLAlchemy, HTML, CSS, and JavaScript designed to provide a realistic cinema booking experience with reliable reservation processing and secure data handling.
 
-The project was designed to provide a realistic cinema booking experience with reliable reservation processing, secure data handling, interactive seat selection, and a professional user interface.
+**Key Features:**
+- 🎟️ Server-side seat availability & booking validation
+- 💳 Transaction-aware reservation processing & server-authoritative ticket pricing
+- 🛑 Protection against duplicate seat bookings
+- 🔐 Secure staff authentication with password hashing & route protection
+- 🛡️ CSRF protection and security response headers
+- 🧾 Digital booking confirmation workflows & secure lookup
+- 🚀 Deployed application to a live production environment
 
-### Key Engineering Work
-
-* Implemented server-side seat availability and booking validation
-* Developed transaction-aware reservation processing
-* Implemented server-authoritative ticket pricing
-* Added protection against duplicate seat bookings
-* Implemented secure staff authentication with password hashing
-* Protected staff and administrative routes with authentication and authorization
-* Added CSRF protection and security response headers
-* Developed secure booking lookup and confirmation workflows
-* Implemented digital booking confirmation functionality
-* Tested booking, authentication, validation, and security functionality
-* Deployed the application to a live production environment
-
-🔗 **[Live Demo](https://cinevo-luxe.onrender.com)** · **[Repository](https://github.com/Yathusan-tech/cinevo-luxe)**
-
----
-
-## 🛠️ Technologies
-
-### Programming & Web
-
-* Python
-* JavaScript
-* HTML5
-* CSS3
-* SQL
-
-### Frameworks & Libraries
-
-* Flask
-* Flask-SQLAlchemy
-* SQLAlchemy
-* Werkzeug
-
-### Database
-
-* SQLite
-* SQLAlchemy ORM
-
-### Development & Deployment
-
-* Git
-* GitHub
-* Render
-* REST APIs
-* Environment-based configuration
+`Python` `Flask` `Flask-SQLAlchemy` `SQLite` `JavaScript` `Render`
 
 ---
 
 ## 🔐 Technical Interests
 
-* Software Development
-* Full-Stack Web Development
-* Backend Systems
-* Database Management
-* Application Security
-* Data Structures & Algorithms
-* Cloud & Deployment Technologies
+**Software Development**  
+Focusing on structured, maintainable code execution and system architecture.
 
-I'm currently exploring different areas of Computer Science while building a strong foundation across software development and related technologies.
+**Full-Stack Web Development**  
+Developing functional user interfaces backed by reliable server processing.
 
----
+**Backend Systems & Database Management**  
+Designing relational structures with SQLite and SQLAlchemy.
 
-## 📚 Currently Learning
-
-* Python and software development
-* Data Structures & Algorithms
-* Database systems
-* Web technologies
-* Application security
-* Software engineering practices
-* Cloud deployment
+**Application Security**  
+Implementing safe authentication, authorization, and web protection practices.
 
 ---
 
-## 🎯 My Approach
+## 🔄 How I Learn & Build
 
-> **Learn → Build → Test → Improve**
+```text
+Learn ➔ Understand ➔ Build ➔ Test ➔ Debug ➔ Improve
 
-I believe the best way to learn Computer Science is by building practical systems.
+I prefer learning through implementation. Building projects helps me understand how individual concepts work together in a real application.
 
-Through my projects, I aim to understand not only how an application works from the user interface, but also how its backend logic, database, validation, security, and deployment work together.
+🎯 Current Focus
+My current priorities are:
 
-I'm continuously improving my programming fundamentals and engineering practices while exploring different areas of Computer Science.
+🧠 Strengthening Data Structures & Algorithms
+
+🐍 Improving Python and software development
+
+🌐 Building stronger web development skills
+
+🗄️ Deepening my understanding of databases and SQL
+
+🔒 Learning better testing and security practices
+
+☁️ Exploring cloud deployment technologies
+
+🤝 Let's Connect
+I'm always interested in connecting with fellow developers, students, and people working on interesting projects.
+
+🚀 Building software. Strengthening fundamentals. Learning continuously.
 
 ---
 
-## 📌 What I'm Working Toward
+## 📊 GitHub
 
-I'm building my skills toward a career in **software development and technology**, with a particular interest in developing reliable web applications and backend systems.
+I use GitHub to document my learning journey, build practical projects, and continuously improve my software development skills.
 
-I'm open to learning new technologies, working on challenging projects, and gaining practical software engineering experience.
-
----
-
-## 📫 Connect With Me
-
-* 💼 **LinkedIn:** [Yathusan J](https://www.linkedin.com/in/yathusan-j/)
-* 📧 **Email:** [yathusan795@gmail.com](mailto:yathusan795@gmail.com)
-* 💻 **GitHub:** [Yathusan-tech](https://github.com/Yathusan-tech)
+💻 **GitHub:** https://github.com/Yathusan-tech
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🤝 Let's Connect
 
-Feel free to explore my repositories and projects.
+I'm always interested in learning, connecting with fellow developers, and exploring new technologies.
+
+💼 **LinkedIn:** https://www.linkedin.com/in/yathusan-j/
+
+📧 **Email:** yathusan795@gmail.com
+
+💻 **GitHub:** https://github.com/Yathusan-tech
+
+---
+
+### 🚀 Building practical software. Strengthening fundamentals. Learning continuously.
+
