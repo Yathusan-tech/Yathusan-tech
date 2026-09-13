@@ -218,6 +218,17 @@ I believe in learning through implementation and practical projects. Building co
 
 ---
 
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Yathusan-tech/Yathusan-tech/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with fellow developers, students, and people interested in technology and software development.
