@@ -1,4 +1,3 @@
-````markdown
 # 👋 Hi, I'm Yathusan
 
 ### 💻 B.Tech Computer Science & Engineering Student | Software Developer
