@@ -78,7 +78,7 @@ My goal is to grow into a developer who combines strong **Computer Science funda
 
 ## 🚀 Featured Project
 
-# 🎬 CINEVO LUXE
+### 🎬 CINEVO LUXE
 
 ### Movie Ticket Reservation Platform
 
@@ -141,9 +141,7 @@ Exploring authentication, authorization, password hashing, server-side validatio
 
 ## 🧪 How I Learn & Build
 
-```text
-Learn → Understand → Build → Test → Debug → Improve
-````
+> **Learn → Understand → Build → Test → Debug → Improve**
 
 I prefer learning through implementation.
 
@@ -175,6 +173,9 @@ I use GitHub to document my learning journey, build practical projects, and cont
 
 ## 🐍 Contribution Activity
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Yathusan-tech/Yathusan-tech/output/github-contribution-grid-snake.svg)
+
+---
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yathusan-tech/Yathusan-tech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
