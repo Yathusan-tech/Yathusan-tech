@@ -1,18 +1,22 @@
+<div align="center">
+
 # Hi, I'm Yathusan 👋
 
 ### 💻 B.Tech Computer Science & Engineering Student | Aspiring Software Developer
 
-<p align="left">
-  <a href="https://github.com/Yathusan-tech">
-    <img src="https://img.shields.io/badge/GitHub-Yathusan--tech-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/yathusan-j/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yathusan_J-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:yathusan795@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<a href="https://github.com/Yathusan-tech">
+  <img src="https://img.shields.io/badge/GitHub-Yathusan--tech-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/yathusan-j/">
+  <img src="https://img.shields.io/badge/LinkedIn-Yathusan_J-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:yathusan795@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+---
 
 I'm a **Computer Science & Engineering student** with a strong interest in **software development, web technologies, backend systems, databases, and application security**.
 
