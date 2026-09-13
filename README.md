@@ -4,288 +4,176 @@
 
 ### 💻 B.Tech Computer Science & Engineering Student | Aspiring Software Developer
 
+<br>
+
+<a href="https://github.com/Yathusan-tech">
+  <img src="https://img.shields.io/badge/GitHub-Yathusan--tech-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yathusan-j/">
+  <img src="https://img.shields.io/badge/LinkedIn-Yathusan_J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:yathusan795@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+<br>
+
+## 👨‍💻 About Me
+
+I'm a **B.Tech Computer Science & Engineering student** interested in **software development, full-stack web applications, backend systems, databases, application security, and Artificial Intelligence**.
+
+I enjoy learning by building practical projects and understanding how complete software systems work—from the user interface and backend logic to databases, validation, security, testing, and deployment.
+
+**My goal:** To strengthen my Computer Science fundamentals and develop the practical engineering skills needed to build **reliable, secure, and user-focused applications**.
+
+---
+
+## 🛠️ Technical Skills
+
 <p align="center">
-  <a href="https://github.com/Yathusan-tech">
-    <img src="https://img.shields.io/badge/GitHub-Yathusan--tech-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" height="28"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yathusan-j/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yathusan_J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:yathusan795@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/>
-  </a>
-  
----
-
-I'm a **Computer Science & Engineering student** with a strong interest in **software development, web technologies, backend systems, databases, and application security**.
-
-I enjoy learning by building practical projects and applying what I learn to create applications that are **functional, reliable, secure, and user-focused**.
-
-My goal is to continuously strengthen my **Computer Science fundamentals** while developing practical **software engineering skills** through hands-on projects.
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Pursuing a **B.Tech in Computer Science & Engineering**
-- 💻 Interested in **Software Development and Web Technologies**
-- 🐍 Building backend applications using **Python and Flask**
-- 🌐 Developing full-stack web applications
-- 🗄️ Learning **Databases, SQL, and Backend Systems**
-- 🔐 Exploring **Application Security and Secure Development Practices**
-- ⚙️ Working with **Validation, Authentication, and Deployment**
-- 🧪 Learning through **building, testing, debugging, and continuous improvement**
-
-> **My goal:** To grow into a software developer with strong technical fundamentals and the ability to build reliable, secure, and practical applications.
-
----
-
-# 🛠️ Technical Skills
-
-## 💻 Programming Languages & Web Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,sqlite,git,github,vscode" />
 </p>
 
-**Python · JavaScript · HTML5 · CSS3 · SQL**
+<p align="center">
 
----
+**Python** • **JavaScript** • **HTML5** • **CSS3** • **SQL**
 
-## ⚙️ Backend & Frameworks
+**Flask** • **SQLAlchemy** • **Jinja2** • **SQLite**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask" />
+**Git** • **GitHub** • **VS Code** • **Render** • **Gunicorn**
+
 </p>
 
-**Flask · Flask-SQLAlchemy · SQLAlchemy · Jinja2**
-
 ---
 
-## 🗄️ Databases
+## 🎬 Featured Project
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sqlite" />
-</p>
+<div align="center">
 
-**SQLite · SQL · Relational Databases · SQLAlchemy ORM**
+### CINEVO LUXE
 
----
+**Premium Full-Stack Cinema Booking Platform**
 
-## 🔧 Tools & Deployment
+</div>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+CINEVO LUXE is a full-stack cinema booking platform built to provide a realistic online movie reservation experience.
 
-**Git · GitHub · VS Code · Render · Gunicorn**
+### ✨ Highlights
 
----
-
-## 🔐 Development Concepts
-
-**Server-Side Validation · Authentication · Authorization · Password Hashing · CSRF Protection · Database Integration · Secure Session Handling · Route Protection**
-
----
-
-# 🚀 Featured Project
-
-## 🎬 CINEVO LUXE
-
-### Premium Movie Ticket Reservation Platform
-
-CINEVO LUXE is a **full-stack movie ticket reservation platform** built using **Python, Flask, SQLite, SQLAlchemy, HTML5, CSS3, and JavaScript**.
-
-The project was designed to provide a realistic cinema booking experience while focusing on reliable reservation processing, server-side validation, database integrity, secure authentication, and responsive user experience.
-
-### ✨ Core Features
-
-- 🎬 Movie discovery and browsing
-- 🏢 Cinema and showtime selection
-- 💺 Interactive seat selection
-- 🎟️ Server-side seat availability validation
-- 🛑 Protection against duplicate seat bookings
+- 🎬 Movie discovery, cinemas, and showtimes
+- 💺 Interactive seat selection and booking
+- 🛡️ Server-side validation and duplicate seat protection
 - 💰 Server-authoritative ticket pricing
-- 🍿 Food and beverage ordering
-- 🧾 Checkout and booking workflows
-- 🎫 Digital booking confirmation
-- 🔎 Booking lookup and management
-- 👨‍💼 Secure staff authentication
-- 🛡️ Protected administrative routes
+- 🔐 Secure staff authentication and protected routes
+- 🧾 Checkout, booking management, and digital confirmation
+- 🛡️ CSRF protection and security-focused response headers
 - 📱 Responsive user interface
-- ☁️ Live application deployment
+- ☁️ Live deployment
 
-### 🔐 Engineering & Security
+<p align="center">
 
-- Server-side booking validation
-- Database-level duplicate seat protection
-- Transaction-aware reservation processing
-- Password hashing for staff authentication
-- Authentication and authorization
-- CSRF protection
-- Secure session handling
-- Server-side input validation
-- Security-focused HTTP response headers
-- Protected staff and administrative functionality
+<a href="https://cinevo-luxe.onrender.com">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-View_Project-success?style=for-the-badge" alt="Live Demo"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Yathusan-tech/cinevo-luxe">
+  <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+</a>
 
-### 🧰 Technology Stack
+</p>
 
-`Python` · `Flask` · `Flask-SQLAlchemy` · `SQLAlchemy` · `SQLite`
+<p align="center">
 
-`HTML5` · `CSS3` · `JavaScript` · `Jinja2`
+`Python` · `Flask` · `SQLite` · `SQLAlchemy` · `HTML5` · `CSS3` · `JavaScript`
 
-`Git` · `GitHub` · `Gunicorn` · `Render`
-
-### 🔗 Project Links
-
-🌐 **Live Application:**  
-https://cinevo-luxe.onrender.com
-
-💻 **Source Code:**  
-https://github.com/Yathusan-tech/cinevo-luxe
+</p>
 
 ---
 
-# 🧠 Technical Interests
+## 🧠 Interests & Currently Learning
 
-## 💻 Software Development
-
-Improving my understanding of structured programming, maintainable code, debugging, application architecture, and software development practices.
-
-## 🌐 Full-Stack Web Development
-
-Building responsive user interfaces supported by reliable server-side application logic and database-driven systems.
-
-## ⚙️ Backend Systems
-
-Developing backend applications using Python and Flask while improving my understanding of request handling, application logic, validation, authentication, and database integration.
-
-## 🗄️ Databases & SQL
-
-Strengthening my understanding of relational databases, SQL, SQLite, database design, and ORM-based application development.
-
-## 🔐 Application Security
-
-Exploring secure authentication, authorization, password hashing, server-side validation, CSRF protection, session handling, and secure web development practices.
-
----
-
-# 🧠 Computer Science Foundation
-
-I am continuously strengthening my understanding of fundamental Computer Science concepts and applying them through programming and practical projects.
-
-- 🌳 Data Structures & Algorithms
-- 🧩 Object-Oriented Programming
-- 🗄️ Database Management Systems
-- ⚙️ Operating Systems
-- 🌐 Computer Networks
-- 🏗️ Software Engineering
-- 🐍 Python Programming
-
----
-
-# 📚 Currently Learning
-
-### 🧠 Problem Solving
-
-- Data Structures
-- Algorithms
-- Programming Logic
-- Problem-Solving Techniques
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💻 Software Engineering
 
-- Clean and Maintainable Code
-- Debugging
-- Testing
-- Application Architecture
-- Software Development Practices
+- Data Structures & Algorithms
+- Clean and maintainable code
+- Debugging and testing
+- Software architecture
 
 ### 🌐 Web Development
 
-- Full-Stack Applications
-- Backend Development
-- Responsive Interfaces
-- Web Application Architecture
+- Full-stack applications
+- Backend systems
+- Responsive interfaces
+- Database integration
 
-### 🗄️ Databases
+</td>
 
-- SQL
-- Relational Databases
-- Database Design
-- ORM-Based Application Development
+<td width="50%" valign="top">
 
-### 🔐 Application Security
+### 🤖 Artificial Intelligence
 
-- Authentication and Authorization
-- Secure Password Handling
-- Input Validation
-- CSRF Protection
-- Secure Web Development Practices
+- AI concepts and fundamentals
+- Generative AI
+- AI-powered applications
+- Prompt engineering
 
----
+### 🔐 Security & Databases
 
-# 🧪 How I Learn & Build
+- Authentication and authorization
+- Secure development practices
+- SQL and relational databases
+- Database design
 
-```text
-Learn → Understand → Design → Build → Test → Debug → Improve
-````
-
-I prefer learning through **implementation and practical projects**.
-
-Building applications helps me understand how different parts of a software system work together—from the user interface and backend logic to databases, validation, security, testing, and deployment.
+</td>
+</tr>
+</table>
 
 ---
 
-# 🎯 Current Focus
+## 🔄 My Development Approach
 
-My current priorities include:
+<p align="center">
 
-* 🧠 Strengthening **Data Structures & Algorithms**
-* 🐍 Improving **Python and Software Development**
-* 🌐 Developing stronger **Web Development Skills**
-* 🗄️ Deepening my understanding of **Databases and SQL**
-* 🧪 Improving **Testing and Debugging Practices**
-* 🔐 Learning more about **Application Security**
-* ☁️ Exploring **Cloud Deployment Technologies**
-* 🚀 Building more complete and production-oriented projects
+**Learn → Understand → Design → Build → Test → Debug → Improve**
 
----
+</p>
 
-# 📊 GitHub
-
-I use GitHub to document my learning journey, build practical projects, and continuously improve my software development skills.
-
-💻 **GitHub Profile:**
-[https://github.com/Yathusan-tech](https://github.com/Yathusan-tech)
+I believe practical projects are one of the best ways to understand how software systems work and how individual technologies connect together.
 
 ---
 
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yathusan-tech/Yathusan-tech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Yathusan-tech/Yathusan-tech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
 </p>
 
 ---
 
-# 🤝 Let's Connect
-
-I'm always interested in learning, building practical projects, and connecting with fellow developers and people interested in technology.
-
-💼 **LinkedIn:**
-[https://www.linkedin.com/in/yathusan-j/](https://www.linkedin.com/in/yathusan-j/)
-
-📧 **Email:**
-[yathusan795@gmail.com](mailto:yathusan795@gmail.com)
-
-💻 **GitHub:**
-[https://github.com/Yathusan-tech](https://github.com/Yathusan-tech)
-
----
+## 🤝 Let's Connect
 
 <p align="center">
-  <strong>🚀 Building practical software. Strengthening fundamentals. Learning continuously.</strong>
+
+<a href="https://www.linkedin.com/in/yathusan-j/">
+  <img src="https://img.shields.io/badge/LinkedIn-Yathusan_J-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:yathusan795@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 </p>
+
+<div align="center">
+
+### 🚀 Building practical software. Learning continuously. Improving every day.
+
+</div>
