@@ -258,7 +258,7 @@ I use GitHub to document my learning journey, build practical projects, and cont
 
 ---
 
-# 🐍 Contribution Activity
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yathusan-tech/Yathusan-tech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
