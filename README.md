@@ -24,11 +24,9 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science & Engineering student** with a strong interest in **software development, web technologies, backend systems, databases, application security, and Artificial Intelligence**.
+I am a **B.Tech Computer Science & Engineering student** with a strong interest in **software development, web technologies, backend systems, databases, application security, and intelligent applications**.
 
 I enjoy learning by building practical projects and understanding how complete software systems work—from user interfaces and backend logic to databases, validation, security, testing, and deployment.
-
-I am also currently exploring **Artificial Intelligence**, with an interest in understanding how AI systems work, how they process information, and how AI can be applied to practical software applications.
 
 My goal is to continuously strengthen my **Computer Science fundamentals** while developing the practical engineering skills needed to build **reliable, secure, and user-focused applications**.
 
@@ -41,7 +39,7 @@ My goal is to continuously strengthen my **Computer Science fundamentals** while
 - ⚙️ Backend Systems
 - 🗄️ Databases and SQL
 - 🔐 Web Application Security
-- 🤖 Artificial Intelligence Fundamentals
+- 🤖 AI & Intelligent Applications
 - 🧠 Data Structures & Algorithms
 - 🏗️ Software Engineering Fundamentals
 - ☁️ Application Deployment
@@ -50,10 +48,10 @@ My goal is to continuously strengthen my **Computer Science fundamentals** while
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Programming Languages
+### 💻 Programming Languages & Web Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Python, JavaScript, HTML5 and CSS3">
 </p>
 
 **Python · JavaScript · HTML5 · CSS3 · SQL**
@@ -61,7 +59,7 @@ My goal is to continuously strengthen my **Computer Science fundamentals** while
 ### ⚙️ Backend & Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask">
 </p>
 
 **Flask · Flask-SQLAlchemy · SQLAlchemy · Jinja2 · Werkzeug**
@@ -69,7 +67,7 @@ My goal is to continuously strengthen my **Computer Science fundamentals** while
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite">
 </p>
 
 **SQLite · SQL · SQLAlchemy ORM**
@@ -77,7 +75,7 @@ My goal is to continuously strengthen my **Computer Science fundamentals** while
 ### 🔧 Development & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code">
 </p>
 
 **Git · GitHub · VS Code · Render · Gunicorn**
@@ -133,7 +131,7 @@ The project also includes a dedicated **staff management system** for administra
 
 `Git` · `GitHub` · `Gunicorn` · `Render`
 
-<br>
+### 🔗 Project Links
 
 🌐 **Live Demo:**  
 https://cinevo-luxe.onrender.com
@@ -165,84 +163,82 @@ Improving my understanding of:
 
 - Data Structures
 - Algorithms
-- Programming logic
-- Problem-solving techniques
+- Programming Logic
+- Problem-Solving Techniques
 
 ### 💻 Software Engineering
 
 Developing stronger knowledge of:
 
-- Clean and maintainable code
+- Clean and Maintainable Code
 - Debugging
 - Testing
-- Application architecture
-- Software development practices
+- Application Architecture
+- Software Development Practices
 
 ### 🌐 Web Development
 
 Continuing to explore:
 
-- Full-stack applications
-- Backend development
-- Responsive interfaces
-- Web application architecture
+- Full-Stack Applications
+- Backend Development
+- Responsive Interfaces
+- Web Application Architecture
 
 ### 🗄️ Databases
 
 Strengthening my knowledge of:
 
 - SQL
-- Relational databases
-- Database design
-- ORM-based application development
+- Relational Databases
+- Database Design
+- ORM-Based Application Development
 
-### 🤖 Artificial Intelligence
+### 🤖 AI & Intelligent Applications
 
-Currently exploring:
-
-- Artificial Intelligence fundamentals
-- How AI systems work
-- Machine Learning concepts
-- Generative AI
-- AI-powered applications
-
-My current goal is to better understand **how Artificial Intelligence processes information, learns from data, and can be integrated into practical software applications**.
+Currently exploring Artificial Intelligence and intelligent systems, with an interest in understanding how they work and how they can be integrated into practical, real-world applications.
 
 ### 🔐 Application Security
 
 Learning about:
 
-- Authentication and authorization
-- Secure password handling
-- Input validation
-- CSRF protection
-- Secure web application practices
+- Authentication and Authorization
+- Secure Password Handling
+- Input Validation
+- CSRF Protection
+- Secure Web Application Practices
 
 ---
 
 ## 🔄 My Development Approach
 
-text
+> **Learn → Understand → Design → Build → Test → Debug → Improve**
 
-Learn → Understand → Design → Build → Test → Debug → Improve
+I believe in learning through implementation and practical projects. Building complete applications helps me understand how different technologies and software components work together.
 
-I believe practical projects are one of the best ways to understand software engineering concepts and how different technologies work together.
+---
 
-🐍 Contribution Activity
+## 🤝 Let's Connect
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Yathusan-tech/Yathusan-tech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"> </p>
+I'm always interested in connecting with fellow developers, students, and people interested in technology and software development.
 
-🤝 Let's Connect
+<p>
 
-I'm always interested in connecting with fellow developers, students, and people working on interesting projects.
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/yathusan-j/
 
-💼 LinkedIn: https://www.linkedin.com/in/yathusan-j/
+📧 **Email:**  
+yathusan795@gmail.com
 
-📧 Email: yathusan795@gmail.com
+💻 **GitHub:**  
+https://github.com/Yathusan-tech
 
-💻 GitHub: https://github.com/Yathusan-tech
+</p>
+
+---
 
 <div align="center">
-  
-🚀 Building practical software. Strengthening fundamentals. Learning continuously.
-</div> 
+
+### 🚀 Building practical software. Strengthening fundamentals. Learning continuously.
+
+</div>
