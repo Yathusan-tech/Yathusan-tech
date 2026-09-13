@@ -107,7 +107,8 @@ My current priorities are:
 
 ☁️ Exploring cloud deployment technologies
 
-🤝 Let's Connect
+## 🤝 Let's Connect
+
 I'm always interested in connecting with fellow developers, students, and people working on interesting projects.
 
 🚀 Building software. Strengthening fundamentals. Learning continuously.
