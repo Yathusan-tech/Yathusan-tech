@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Yathusan
+# Hi, I'm Yathusan 👋
 
-### 💻 B.Tech Computer Science & Engineering Student | Software Developer
+### 💻 B.Tech Computer Science & Engineering Student | Aspiring Software Developer
 
-<p>
+<p align="left">
   <a href="https://github.com/Yathusan-tech">
     <img src="https://img.shields.io/badge/GitHub-Yathusan--tech-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -14,155 +14,242 @@
   </a>
 </p>
 
-I'm a **Computer Science & Engineering student** focused on software development, web technologies, backend systems, databases, and application security.
+I'm a **Computer Science & Engineering student** with a strong interest in **software development, web technologies, backend systems, databases, and application security**.
 
-I enjoy learning by building practical projects and applying what I learn to create applications that are **functional, reliable, secure, and user-friendly**.
+I enjoy learning by building practical projects and applying what I learn to create applications that are **functional, reliable, secure, and user-focused**.
 
-I believe good software is built through **strong fundamentals, thoughtful design, clean implementation, testing, and continuous improvement**.
+My goal is to continuously strengthen my **Computer Science fundamentals** while developing practical **software engineering skills** through hands-on projects.
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 🎓 Pursuing a **B.Tech in Computer Science & Engineering**
-- 💻 Focused on **Software Development and Web Technologies**
+- 💻 Interested in **Software Development and Web Technologies**
 - 🐍 Building backend applications using **Python and Flask**
-- 🗄️ Developing knowledge in **Databases, SQL, and Backend Systems**
-- 🛡️ Exploring **Application Security and Secure Development Practices**
-- ⚙️ Working with **Data Validation, Authentication, and Deployment**
-- 🧪 Learning through **projects, testing, debugging, and continuous improvement**
+- 🌐 Developing full-stack web applications
+- 🗄️ Learning **Databases, SQL, and Backend Systems**
+- 🔐 Exploring **Application Security and Secure Development Practices**
+- ⚙️ Working with **Validation, Authentication, and Deployment**
+- 🧪 Learning through **building, testing, debugging, and continuous improvement**
 
-My goal is to grow into a developer who combines strong **Computer Science fundamentals** with practical **software engineering skills**.
+> **My goal:** To grow into a software developer with strong technical fundamentals and the ability to build reliable, secure, and practical applications.
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### 💻 Programming Languages & Web Technologies
+## 💻 Programming Languages & Web Technologies
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 **Python · JavaScript · HTML5 · CSS3 · SQL**
 
-### ⚙️ Frameworks & Libraries
+---
 
-<p>
+## ⚙️ Backend & Frameworks
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=flask" />
 </p>
 
-**Flask · Flask-SQLAlchemy**
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite" />
-</p>
-
-**SQLite · SQL · Relational Databases · SQLAlchemy**
-
-### 🔧 Tools & Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-**Git · GitHub · VS Code · Render**
-
-### 🔐 Development Concepts
-
-**Server-Side Validation · Authentication · Authorization · Password Hashing · CSRF Protection · Database Integration · Secure Route Protection**
+**Flask · Flask-SQLAlchemy · SQLAlchemy · Jinja2**
 
 ---
 
-## 🚀 Featured Project
+## 🗄️ Databases
 
-### 🎬 CINEVO LUXE
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
 
-### Movie Ticket Reservation Platform
+**SQLite · SQL · Relational Databases · SQLAlchemy ORM**
 
-CINEVO LUXE is a full-stack movie ticket reservation platform built with **Python, Flask, SQLite, SQLAlchemy, HTML, CSS, and JavaScript**.
+---
 
-The application is designed to provide a realistic cinema booking experience while focusing on reliable reservation processing, server-side validation, secure authentication, and database-driven functionality.
+## 🔧 Tools & Deployment
 
-### ✨ Key Features
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-- 🎟️ Server-side seat availability and booking validation
+**Git · GitHub · VS Code · Render · Gunicorn**
+
+---
+
+## 🔐 Development Concepts
+
+**Server-Side Validation · Authentication · Authorization · Password Hashing · CSRF Protection · Database Integration · Secure Session Handling · Route Protection**
+
+---
+
+# 🚀 Featured Project
+
+## 🎬 CINEVO LUXE
+
+### Premium Movie Ticket Reservation Platform
+
+CINEVO LUXE is a **full-stack movie ticket reservation platform** built using **Python, Flask, SQLite, SQLAlchemy, HTML5, CSS3, and JavaScript**.
+
+The project was designed to provide a realistic cinema booking experience while focusing on reliable reservation processing, server-side validation, database integrity, secure authentication, and responsive user experience.
+
+### ✨ Core Features
+
+- 🎬 Movie discovery and browsing
+- 🏢 Cinema and showtime selection
 - 💺 Interactive seat selection
-- 🎬 Movie and showtime selection
-- 💳 Reservation and booking workflows
-- 💰 Server-authoritative ticket pricing
+- 🎟️ Server-side seat availability validation
 - 🛑 Protection against duplicate seat bookings
-- 🔐 Secure staff authentication with password hashing
-- 🛡️ Protected staff and administrative routes
-- 🧾 Digital booking confirmation
+- 💰 Server-authoritative ticket pricing
+- 🍿 Food and beverage ordering
+- 🧾 Checkout and booking workflows
+- 🎫 Digital booking confirmation
 - 🔎 Booking lookup and management
-- 🛡️ CSRF protection
-- 🔒 Security response headers
+- 👨‍💼 Secure staff authentication
+- 🛡️ Protected administrative routes
 - 📱 Responsive user interface
-- 🚀 Live production deployment
+- ☁️ Live application deployment
+
+### 🔐 Engineering & Security
+
+- Server-side booking validation
+- Database-level duplicate seat protection
+- Transaction-aware reservation processing
+- Password hashing for staff authentication
+- Authentication and authorization
+- CSRF protection
+- Secure session handling
+- Server-side input validation
+- Security-focused HTTP response headers
+- Protected staff and administrative functionality
 
 ### 🧰 Technology Stack
 
-`Python` · `Flask` · `Flask-SQLAlchemy` · `SQLite` · `HTML5` · `CSS3` · `JavaScript` · `Git` · `GitHub` · `Render`
+`Python` · `Flask` · `Flask-SQLAlchemy` · `SQLAlchemy` · `SQLite`
 
-🔗 **Repository:**  
-https://github.com/Yathusan-tech/cinevo-luxe
+`HTML5` · `CSS3` · `JavaScript` · `Jinja2`
+
+`Git` · `GitHub` · `Gunicorn` · `Render`
+
+### 🔗 Project Links
 
 🌐 **Live Application:**  
 https://cinevo-luxe.onrender.com
 
+💻 **Source Code:**  
+https://github.com/Yathusan-tech/cinevo-luxe
+
 ---
 
-## 🧠 Technical Interests
+# 🧠 Technical Interests
 
-### 💻 Software Development
+## 💻 Software Development
 
 Improving my understanding of structured programming, maintainable code, debugging, application architecture, and software development practices.
 
-### 🌐 Full-Stack Web Development
+## 🌐 Full-Stack Web Development
 
-Building responsive user interfaces supported by reliable server-side application logic and database systems.
+Building responsive user interfaces supported by reliable server-side application logic and database-driven systems.
 
-### ⚙️ Backend Systems
+## ⚙️ Backend Systems
 
-Developing applications with Python and Flask while improving my understanding of request handling, validation, authentication, application logic, and database integration.
+Developing backend applications using Python and Flask while improving my understanding of request handling, application logic, validation, authentication, and database integration.
 
-### 🗄️ Databases & SQL
+## 🗄️ Databases & SQL
 
-Strengthening my understanding of relational databases, SQL, SQLite, SQLAlchemy, and database-driven application development.
+Strengthening my understanding of relational databases, SQL, SQLite, database design, and ORM-based application development.
+
+## 🔐 Application Security
+
+Exploring secure authentication, authorization, password hashing, server-side validation, CSRF protection, session handling, and secure web development practices.
+
+---
+
+# 🧠 Computer Science Foundation
+
+I am continuously strengthening my understanding of fundamental Computer Science concepts and applying them through programming and practical projects.
+
+- 🌳 Data Structures & Algorithms
+- 🧩 Object-Oriented Programming
+- 🗄️ Database Management Systems
+- ⚙️ Operating Systems
+- 🌐 Computer Networks
+- 🏗️ Software Engineering
+- 🐍 Python Programming
+
+---
+
+# 📚 Currently Learning
+
+### 🧠 Problem Solving
+
+- Data Structures
+- Algorithms
+- Programming Logic
+- Problem-Solving Techniques
+
+### 💻 Software Engineering
+
+- Clean and Maintainable Code
+- Debugging
+- Testing
+- Application Architecture
+- Software Development Practices
+
+### 🌐 Web Development
+
+- Full-Stack Applications
+- Backend Development
+- Responsive Interfaces
+- Web Application Architecture
+
+### 🗄️ Databases
+
+- SQL
+- Relational Databases
+- Database Design
+- ORM-Based Application Development
 
 ### 🔐 Application Security
 
-Exploring authentication, authorization, password hashing, server-side validation, CSRF protection, and secure web development practices.
+- Authentication and Authorization
+- Secure Password Handling
+- Input Validation
+- CSRF Protection
+- Secure Web Development Practices
 
 ---
 
-## 🧪 How I Learn & Build
+# 🧪 How I Learn & Build
 
-> **Learn → Understand → Build → Test → Debug → Improve**
+```text
+Learn → Understand → Design → Build → Test → Debug → Improve
+````
 
-I prefer learning through implementation.
+I prefer learning through **implementation and practical projects**.
 
-Building practical projects helps me understand how individual concepts work together in real applications while strengthening my problem-solving and software development skills.
+Building applications helps me understand how different parts of a software system work together—from the user interface and backend logic to databases, validation, security, testing, and deployment.
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
-* 🧠 Strengthening **Data Structures and Algorithms**
+My current priorities include:
+
+* 🧠 Strengthening **Data Structures & Algorithms**
 * 🐍 Improving **Python and Software Development**
-* 🌐 Developing stronger **Web Development skills**
+* 🌐 Developing stronger **Web Development Skills**
 * 🗄️ Deepening my understanding of **Databases and SQL**
-* 🧪 Improving **Testing and Debugging practices**
+* 🧪 Improving **Testing and Debugging Practices**
 * 🔐 Learning more about **Application Security**
-* ☁️ Exploring **Cloud Deployment technologies**
-* 🚀 Building more practical and production-oriented projects
+* ☁️ Exploring **Cloud Deployment Technologies**
+* 🚀 Building more complete and production-oriented projects
 
 ---
 
-## 📊 GitHub
+# 📊 GitHub
 
 I use GitHub to document my learning journey, build practical projects, and continuously improve my software development skills.
 
@@ -171,20 +258,17 @@ I use GitHub to document my learning journey, build practical projects, and cont
 
 ---
 
-## 🐍 Contribution Activity
+# 🐍 Contribution Activity
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Yathusan-tech/Yathusan-tech/output/github-contribution-grid-snake.svg)
-
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yathusan-tech/Yathusan-tech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
-I'm always interested in connecting with fellow developers, students, and people interested in technology and software development.
+I'm always interested in learning, building practical projects, and connecting with fellow developers and people interested in technology.
 
 💼 **LinkedIn:**
 [https://www.linkedin.com/in/yathusan-j/](https://www.linkedin.com/in/yathusan-j/)
