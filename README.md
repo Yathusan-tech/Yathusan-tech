@@ -1,97 +1,160 @@
-# 👨‍💻 Hi, I'm Yathusan J
+# 👋 Hi, I'm Yathusan
 
-**B.Tech Computer Science and Engineering Student** | Software Developer | Tech Explorer
-
----
-
-### 📌 About Me
-
-I am a passionate Computer Science student dedicated to building high-performance web applications, strengthening computer science fundamentals, and exploring emerging software technologies. 
-
-* 🎓 **Degree:** B.Tech in Computer Science and Engineering
-* 💻 **Primary Focus:** Web Development & Software Engineering
-* 🧠 **Currently Learning:** Advanced AI Architectures, Large Language Models (LLMs), & Retrieval-Augmented Generation (RAG)
-* 🚀 **Current Goals:** Building full-stack production-ready applications and contributing to open-source software.
-
----
-
-### 🧠 Current Learning Focus: AI & Modern Technologies
-
-To stay ahead in modern software development, I am actively diving into contemporary Artificial Intelligence topics:
-
-* **Retrieval-Augmented Generation (RAG):** Combining Vector Databases (like Chroma/Pinecone) with LLMs to build grounded AI knowledge assistants.
-* **Agentic AI Frameworks:** Building autonomous workflows using tools like LangChain and CrewAI.
-* **Efficient Fine-Tuning:** Understanding transformer models, prompt engineering, and local model inference (Ollama/Hugging Face).
-
----
-
-### 📊 GitHub Stats & Overview
+### 💻 B.Tech Computer Science & Engineering Student | Software Developer
 
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub-Yathusan--tech-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</p>
-
-* **Focus Areas:** Software Development • Web Engineering • Computer Science
-* **GitHub Activity:** Documenting my learning journey, building practical projects, and improving developer skills continuously.
-
----
-
-### 🤝 Let's Connect
-
-I'm always interested in connecting with fellow developers, students, and tech enthusiasts working on interesting projects.
-
-<p align="left">
+  <a href="https://github.com/Yathusan-tech">
+    <img src="https://img.shields.io/badge/GitHub-Yathusan--tech-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/yathusan-j/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yathusan_J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Yathusan_J-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yathusan795@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yathusan795%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Yathusan-tech">
-    <img src="https://img.shields.io/badge/GitHub-Yathusan--tech-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Email-yathusan795%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-> 🚀 *"Building software. Strengthening fundamentals. Learning continuously."*
+I'm a **Computer Science & Engineering student** focused on software development, web technologies, backend systems, databases, and application security.
+
+I enjoy learning by building practical projects and applying what I learn to create applications that are **functional, reliable, secure, and user-friendly**.
+
+I believe good software is a combination of **strong fundamentals, thoughtful design, clean implementation, testing, and continuous improvement**.
 
 ---
 
-### 🎮 Contribution Arcade
+# 🧑‍💻 About Me
 
-#### 🐍 Snake — My Contributions in Motion
+- 🎓 Pursuing a **B.Tech in Computer Science & Engineering**
+- 💻 Interested in **Software Development and Web Technologies**
+- 🐍 Building backend applications with **Python and Flask**
+- 🗄️ Learning **Databases, SQL, and Backend Systems**
+- 🛡️ Exploring **Application Security and Secure Web Development**
+- ⚙️ Working with **Data Validation, Authentication, and Deployment**
+- 🧪 Learning through **projects, experimentation, testing, and continuous improvement**
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Yathusan-tech/Yathusan-tech/output/github-contribution-grid-snake.svg)
-
-*Every square represents a day. Every contribution tells part of the journey. 🚀*
+My goal is to grow into a developer who can combine strong **Computer Science fundamentals** with practical **software engineering skills**.
 
 ---
 
-name: Generate Snake
+# 🛠️ Technical Skills
 
-on:
-  schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
-  workflow_dispatch:
+## 💻 Programming Languages & Web Technologies
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
 
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+**Python · JavaScript · HTML5 · CSS3 · SQL**
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+---
 
-          *Every square represents a day. Every contribution tells part of the journey. 🚀*
-          
+## ⚙️ Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask" />
+</p>
+
+**Flask · SQLAlchemy**
+
+---
+
+## 🗄️ Databases & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
+
+**SQLite · SQL · Relational Databases · Database Integration**
+
+---
+
+## 🔐 Application Development
+
+**Server-side Validation · Authentication · Authorization · Password Hashing · CSRF Protection · Secure Route Protection**
+
+---
+
+## 🚀 Deployment & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+**Git · GitHub · Render · VS Code**
+
+---
+
+# 🚀 Featured Projects
+
+## 🎬 CINEVO LUXE
+
+### Movie Ticket Reservation Platform
+
+CINEVO LUXE is a full-stack movie ticket reservation platform built using **Python, Flask, SQLite, SQLAlchemy, HTML, CSS, and JavaScript**.
+
+The project is designed to provide a realistic cinema booking experience with reliable reservation processing, seat management, secure authentication, and server-side validation.
+
+### ✨ Key Features
+
+- 🎟️ Server-side seat availability and booking validation
+- 💺 Interactive movie and seat selection
+- 💳 Transaction-aware reservation processing
+- 💰 Server-authoritative ticket pricing
+- 🛑 Protection against duplicate seat bookings
+- 🔐 Secure staff authentication with password hashing
+- 🛡️ Protected staff and administrative routes
+- 🧾 Digital booking confirmation workflows
+- 🔎 Secure booking lookup and management
+- 🛡️ CSRF protection for application forms
+- 🔒 Security response headers
+- 📱 Responsive interface for multiple screen sizes
+- 🚀 Deployed to a live production environment
+
+### 🧰 Technology Stack
+
+`Python` `Flask` `Flask-SQLAlchemy` `SQLite` `HTML5` `CSS3` `JavaScript` `Git` `GitHub` `Render`
+
+🔗 **Repository:**  
+https://github.com/Yathusan-tech/cinevo-luxe
+
+🌐 **Live Application:**  
+https://cinevo-luxe.onrender.com
+
+---
+
+# 🧠 Technical Interests
+
+## 💻 Software Development
+
+Focusing on writing structured, maintainable, and reliable software while improving my understanding of application architecture and development practices.
+
+---
+
+## 🌐 Full-Stack Web Development
+
+Developing responsive user interfaces backed by reliable server-side processing and database systems.
+
+---
+
+## ⚙️ Backend Systems
+
+Building applications with Python and Flask while learning about request handling, validation, authentication, application logic, and database integration.
+
+---
+
+## 🗄️ Databases & SQL
+
+Strengthening my understanding of relational databases, SQL, SQLite, SQLAlchemy, and data management.
+
+---
+
+## 🔐 Application Security
+
+Exploring authentication, authorization, password hashing, CSRF protection, server-side validation, and secure web application practices.
+
+---
+
+# 🧪 How I Learn & Build
+
+```text
+Learn → Understand → Build → Test → Debug → Improve
