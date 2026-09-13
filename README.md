@@ -4,17 +4,25 @@
 
 ### 💻 B.Tech Computer Science & Engineering Student | Aspiring Software Developer
 
+<p align="center">
+
 <a href="https://github.com/Yathusan-tech">
-  <img src="https://img.shields.io/badge/GitHub-Yathusan--tech-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/yathusan-j/">
-  <img src="https://img.shields.io/badge/LinkedIn-Yathusan_J-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:yathusan795@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/GitHub-Yathusan--tech-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-</div>
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/yathusan-j/">
+  <img src="https://img.shields.io/badge/LinkedIn-Yathusan_J-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:yathusan795@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</p>
 
 ---
 
