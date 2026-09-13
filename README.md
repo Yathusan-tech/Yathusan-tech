@@ -158,3 +158,67 @@ Exploring authentication, authorization, password hashing, CSRF protection, serv
 
 ```text
 Learn → Understand → Build → Test → Debug → Improve
+
+I prefer learning through implementation.
+
+Building projects helps me understand how individual concepts work together in a real application.
+
+I believe that practical development is one of the best ways to strengthen both programming knowledge and problem-solving skills.
+
+🎯 Current Focus
+
+My current priorities are:
+
+🧠 Strengthening Data Structures & Algorithms
+🐍 Improving Python and Software Development
+🌐 Building stronger Web Development skills
+🗄️ Deepening my understanding of Databases and SQL
+🔒 Learning better Testing and Security practices
+⚙️ Improving knowledge of Backend Development
+☁️ Exploring Cloud Deployment technologies
+🚀 Building more practical and production-oriented projects
+📚 Currently Learning
+🐍 Python & Software Development
+
+Improving my understanding of programming fundamentals, clean code, debugging, application structure, and software development practices.
+
+🌐 Web Development
+
+
+Building responsive and interactive web applications using HTML, CSS, JavaScript, Flask, and server-side development techniques.
+
+🗄️ Databases
+
+
+Learning more about SQL, relational databases, SQLite, SQLAlchemy, database design, and application data management.
+
+🔐 Secure Application Development
+
+
+Exploring secure authentication, password hashing, authorization, validation, CSRF protection, and general web security practices.
+
+📊 GitHub
+
+
+I use GitHub to document my learning journey, build practical projects, and continuously improve my software development skills.
+
+💻 GitHub Profile:
+https://github.com/Yathusan-tech
+
+🐍 Contribution Activity
+<p align="center"> <img src="https://raw.githubusercontent.com/Yathusan-tech/Yathusan-tech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" /> </p>
+
+🤝 Let's Connect
+
+I'm always interested in connecting with fellow developers, students, and people working on interesting projects.
+
+💼 LinkedIn:
+https://www.linkedin.com/in/yathusan-j/
+
+📧 Email:
+yathusan795@gmail.com
+
+💻 GitHub:
+https://github.com/Yathusan-tech
+
+🚀 Building practical software. Strengthening fundamentals. Learning continuously.
